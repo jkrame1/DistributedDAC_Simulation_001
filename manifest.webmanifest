@@ -1,0 +1,15 @@
+{
+    "name": "Distributed DAC Simulation 01",
+    "short_name": "Distributed DAC Simulation 01",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#828080",
+    "theme_color": "#fff",
+    "description": "",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-light.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
